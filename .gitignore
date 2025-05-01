@@ -1,0 +1,22 @@
+# Build artifacts
+/build/
+/.xmake/
+/bin/
+/out/
+*.dll
+*.exp
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+# User-specific files
+*.user
+*.suo
+
+# IDE files (optional, depends on preference)
+.vs/
+.vscode/
+
+# Generated files
+compile_commands.json
